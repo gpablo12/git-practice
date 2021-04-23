@@ -7,6 +7,15 @@
 - git add - add changees from working dir to staging area
 - git commit - commit changes from staging area to current branch
 - git config : set or configure git
+- git log: show a history of project commits
+- git checkout: checkout a branch
+- git branch -c: Create a branch
+- git checkout -b: create branch and check it out
+- git branch: list branches
+- git mergeL merge changes from different branches
+- git remote add <remote> <url>: add a new <remote> at <url>
+- git remote -v: List remote repositories
+- git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstram for <branch>
 
 #Commit message
 
