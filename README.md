@@ -15,7 +15,7 @@
 - git mergeL merge changes from different branches
 - git remote add <remote> <url>: add a new <remote> at <url>
 - git remote -v: List remote repositories
-- git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstram for <branch>
+- git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstram for <branch>.
 
 #Commit message
 
